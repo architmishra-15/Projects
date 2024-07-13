@@ -26,9 +26,27 @@ pip install tabulate
 pip install maskpass
 ```
 
+## Creating an executable
+
+You can create an executable file that you can open and run from anywhere with running the code every time you want to use it.
+
+### Follow these steps :
+
+- Step 1: Download [Pyinstaller](https://pyinstaller.org/en/stable/)
+
+```bash
+
+pip install pyinstaller
+```
+
+- Step 2: 
+
+```bash
+
+pyinstaller --onefile --console --distpath "Location where you want the executable" --name NameOfExe Password Manager.py
+```
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
-
-
