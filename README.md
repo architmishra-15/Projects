@@ -24,4 +24,4 @@ Hi there you all, I am Archit Mishra. Here, I'll be storing and uploading the pr
 
 **Stay tuned for the upcoming project 4.**
 
-*Also please recommend me what should I be learning about next? I was thinking of making a project which would scrape the text review of something and convert it to positive, negative or neutral and would visualize that data*
+*Also please recommend me what should I be learning about next? I was thinking of making a project which would scrape the text review of something and convert it to a dataframe categorizing it in three forms - positive, negative or neutral. And would visualize that data*
