@@ -29,6 +29,17 @@ Hi there you all, I am Archit Mishra. Here, I'll be storing and uploading the pr
 
 ## ***Project 5***:
 
-**Stay tuned for the upcoming project 5.**
+- ### *This project explores pointers in Python using C and Python's setuptools.*
+- Implements a custom Python module that allows working with memory addresses, similar to C-style pointers.
+- Key features:
+  - Print the memory location of a Python variable.
+  - Display the value stored at a specific memory address.
+- This project demonstrates the integration of C and Python, showcasing low-level memory manipulation within a high-level language.
+- Provides insights into Python's memory management and offers a unique tool for debugging and understanding variable storage.
+
+
+## ***Project 6***:
+
+**Stay tuned for the upcoming project 6.**
 
 *Also please recommend me what should I be learning about next? I was thinking of making a project which would scrape the text review of something and convert it to a dataframe categorizing it in three forms - positive, negative or neutral. And would visualize that data*
