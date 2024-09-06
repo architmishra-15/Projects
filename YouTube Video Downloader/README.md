@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## Executable
 
-Instead of viewing, installing and running the code, you can directly install the exe file by [clicking here.](https://github.com/architmishra-15/Projects/releases/download/exe/Donwloader-Gui.exe) Please also copy the icon folder in case if you're donwloading the exe file. Keep the exe file inside the icon folder.
+Instead of viewing, installing and running the code, you can directly install the exe file by [clicking here.](https://github.com/architmishra-15/Projects/releases/download/exe/Youtube-Downloader.exe) Please also copy the icon folder in case if you're donwloading the exe file. Keep the exe file inside the icon folder.
 ## License
 
 _This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details._
