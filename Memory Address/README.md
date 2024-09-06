@@ -64,13 +64,15 @@ I havn't uploaded it to the pypi yet so you cannot donwload it using `pip`. You 
       python setup.py build_ext --inplace
       ```
 
-- Or you can just download the `whl` file from the [releases](https://github.com/yash-dk/memory-address/releases) and run -
+    > :bulb: **Tip:** Downloading and using the wheels would be much better and easier.
+    
+- Or you can just download the `whl` file from the releases for [Windows](https://github.com/architmishra-15/Projects/releases/download/wheel/pointers-1.1.0-cp312-cp312-win_amd64.whl) or for [Linux](https://github.com/architmishra-15/Projects/releases/download/wheel/pointers-1.1.0-cp312-cp312-linux_x86_64.whl) and run -
   <br>
   ```bash 
   pip install <path_to_whl_file>
   ```
+    > :memo: **Note:** Both the files are for x86_64 type system.
 
-> :bulb: **Tip:** Downloading and using the wheels would be much better and easier.
 ## Contributing
 
 I was thinking of expanding its functionalities, but at my current level of knowledge, I don't think I'll be able to do it along, so anyone who's willing to contribute is welcome! Just send a pull request.
