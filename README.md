@@ -38,7 +38,19 @@ Hi there you all, I am Archit Mishra. Here, I'll be storing and uploading the pr
 - Provides insights into Python's memory management and offers a unique tool for debugging and understanding variable storage.
 
 
+
 ## ***Project 6***:
+
+### This project can -
+
+- Convert the given image to numpy array and stores it in the `HDF5` file format (`.h5`)
+- Can convert the `numpy array` stored in `.d5` format, back to the image.
+
+> Tip :bulb: : Just don't forget the name of `dataset.`
+
+
+
+## ***Project 7***:
 
 **Stay tuned for the upcoming project 6.**
 

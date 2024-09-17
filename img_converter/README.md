@@ -45,17 +45,18 @@ print(converter.valid_formats())
 
 - ## Installation
 
-You can either download the [wheel file](), and type in this command
+You can download it using pip -
 
 ```bash
-pip install <path to wheel file>
+pip install img_h5_converter
 ```
 
 <center> <strong>OR</strong></center>
 
-You can download it using pip -
+You can download the [wheel file](https://github.com/architmishra-15/Projects/releases/download/img-to-h5/img_h5_converter-1.1.4-py3-none-any.whl), and type in this command
+
 ```bash
-pip install img_h5_converter
+pip install img_h5_converter-1.1.4-py3-none-any.whl
 ```
 
 
@@ -80,6 +81,13 @@ You can read more about it [here](https://docs.hdfgroup.org/hdf5/v1_14/_intro_h_
 
 Well, not much until a few days later a thought struck to my mind to share an image in the form of numpy array to my friend. But unfortunately, it was a `.png` image and numpy can't save 3-Dimenssional array to a text file. So that's when I begin to search and learn about `HDF5` file format. And hence this.
 
-I thought this could be a nice and fun little project. And maybe I could encrypt it and then share it to somebody? Lol it'd be fun nice experiment. I think I'll add this encryption thing in the near future.
+## Future
+
+I was thinking of adding encryption to it, it'd be fun.
+
+If you have idea or something, please feel free to share. You are welcome to contribute to this project. I'd be glad!
 
 #### So yeah that all thanks for reading!
+<br
+>
+>PS: If someone can help me write a better `README` file, I'd very happy, honestly.
