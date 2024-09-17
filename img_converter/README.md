@@ -15,7 +15,7 @@ This was made to convert any image to HDF5 file format and then get the image ba
 It works in a simple manner - you import it, you use it. I mean what else do you expect from a python package? You think these 3-4 y/o or 70-80 y/o be doing all the setting ups? Nah mate.
 
 -   You can convert the image to HDF5 file, something like this -
-  <br>
+  
     ```python
     import img_converter
 
