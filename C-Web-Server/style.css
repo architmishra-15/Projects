@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white; /* Set text color to white for better visibility on black background */
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white overlay */
+  border: 1px solid white;
+  padding: 20px;
+  margin: 20px auto; /* Center the div horizontally */
+  width: 80%; /* Adjust width as needed */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle shadow effect */
+}
