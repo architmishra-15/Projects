@@ -1,5 +1,24 @@
 // server.c
-#include "server.h"
+
+#define PORT 8000
+#define WEBSOCKET_PORT 8001
+#define BUFFER 4096
+#define INOTIFY_EVENTS_SIZE (sizeof(struct inotify_event) + NAME_MAX + 1)
+
+#include <asm-generic/socket.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/socket.h>             // For Core socket APIs
+#include <netinet/in.h>            // Address Structure
+#include <arpa/inet.h>             //  For inet_ntoa()
+#include <unistd.h>
+#include <sys/stat.h>              // Stats (stat() function)
+#include <pthread.h>
+#include <sys/inotify.h>
+#include <signal.h>
+#include <ctype.h>                 // To lower the input
+#include <termios.h>               // For terminal
 #include <libwebsockets.h>
 #include "colors.h"
 
