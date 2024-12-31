@@ -20,7 +20,6 @@ Explore my organized repository:
 
 ### CPI 2024 Data
 
-- **CPI_Data_rep.ipynb**:The preserved data of how the code would look
 - **cpi_data_rep**: The raw code
 - **Output**: The output contains two image files; one is for [CPI of Rice](./CPI%20Rice%20Index.png) and the other is of [Inflation(%) of Wheat](./CPI%20Wheat%20Inflation.png)
 
